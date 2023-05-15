@@ -2,6 +2,28 @@
 <h3 align="center">This is my journey to becoming Java Developer</h3>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
+CURRENT ACHIEVMENTS
+#### Fundamentals Module: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/151462/2c0b01f2)*
+
+#### Java Advanced: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/145783/14eb78d1)*
+
+#### OOP: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/145783/14eb78d1)*
+
+#### Data Structures Fundamentals: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/145783/14eb78d1)*
+
+#### Data Structures Advanced: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/153733/9800767d)*
+
+#### HTML & CSS: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/163274/475c9693)*
+
+#### JavaScript-Front-End: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/168279/cc9537ce)*
+
+#### The Complete Spring Boot Developments Camp: *[:page_facing_up: Certificate](https://www.udemy.com/certificate/UC-2a39e00a-817b-4f3b-a303-5d7590f2620b/)*
+
+#### HackerRank Problem Solving: *[:page_facing_up: Certificate](https://www.hackerrank.com/certificates/28c16ffd9ab0)*
+
+#### HackerRank Problem Solving Java: *[:page_facing_up: Certificate](https://www.hackerrank.com/certificates/d9296b360d37)*
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidchrastev&label=Profile%20views&color=0e75b6&style=flat" alt="davidchrastev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidchrastev" alt="davidchrastev" /></a> </p>
