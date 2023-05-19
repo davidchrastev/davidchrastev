@@ -14,11 +14,22 @@
 <h3 align="right">Languages and Tools:</h3>
 <p align="right"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidchrastev&show_icons=true&locale=en" alt="davidchrastev">
+</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p></p><img src="https://github-readme-stats.vercel.app/api?username=davidchrastev&show_icons=true&locale=en" alt="davidchrastev" /></p>
-<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davidchrastev"/></p>
+<p align="center">
+<img align="center" src="https://streak-stats.demolab.com?user=davidchrastev">
+</p>
+
 
 CURRENT ACHIEVMENTS
 #### Fundamentals Module: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/151462/2c0b01f2)*
