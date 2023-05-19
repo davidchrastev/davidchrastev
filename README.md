@@ -2,7 +2,6 @@
 <h3 align="center">This is my journey to becoming Java Developer</h3>
 <p align="center"> <img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidchrastev" alt="davidchrastev" /></a> </p>
 
 <p align="center">--🌱 I’m currently learning **Java**</p>
 <p align="center">--📫 How to reach me **dafnieebeats@gmail.com**</p>
