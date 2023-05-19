@@ -22,9 +22,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidchrastev&show_icons=true&locale=en" alt="davidchrastev">
 </p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
 
 <p align="center">
 <img align="center" src="https://streak-stats.demolab.com?user=davidchrastev">
