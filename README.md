@@ -17,8 +17,7 @@
 </p>
 </p>
 
-
-<p><p>&nbsp;</p>&nbsp;<p>&nbsp;</p><img align="right" src="https://github-readme-stats.vercel.app/api?username=davidchrastev&show_icons=true&locale=en" alt="davidchrastev" /></p>
+<p></p><img src="https://github-readme-stats.vercel.app/api?username=davidchrastev&show_icons=true&locale=en" alt="davidchrastev" /></p>
 <p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davidchrastev"/></p>
 
 CURRENT ACHIEVMENTS
