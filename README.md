@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Krastev</h1>
 <h3 align="center">This is my journey to becoming Java Developer</h3>
-<p align="center"> <img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> </p>
+<p align="center"> <img align="center" alt="Coding" width="500" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidchrastev" alt="davidchrastev" /></a> </p>
 
