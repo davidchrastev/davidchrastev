@@ -43,6 +43,8 @@ CURRENT ACHIEVMENTS
 
 #### JavaScript-Front-End: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/168279/cc9537ce)*
 
+### MySQL: *[:page_facing_up: Certificate](https://softuni.bg/certificates/details/172313/49d809e3)*
+
 #### The Complete Spring Boot Developments Camp: *[:page_facing_up: Certificate](https://www.udemy.com/certificate/UC-2a39e00a-817b-4f3b-a303-5d7590f2620b/)*
 
 #### HackerRank Problem Solving: *[:page_facing_up: Certificate](https://www.hackerrank.com/certificates/28c16ffd9ab0)*
